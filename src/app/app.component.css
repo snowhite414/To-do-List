@@ -1,0 +1,13 @@
+ .container {
+    margin: auto;
+ }
+.image {
+    border-radius: 1rem;
+    width: 20rem;
+    height: 10rem;
+    margin: auto;   
+    margin-top: 1rem;
+    display: flex;
+
+}
+ 
